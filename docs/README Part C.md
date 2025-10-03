@@ -72,3 +72,4 @@ The application is currently running with a friendly and helpful AI persona.
 ---
 
 ✅ **Status:** Successfully deployed and functional on Hugging Face Space.  
+direct link to the bot "https://huggingface.co/spaces/milarsinam/my-gemini-qna"
