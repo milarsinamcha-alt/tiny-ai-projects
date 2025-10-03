@@ -1,0 +1,12 @@
+This file lists all the Python packages required for the app to run.
+Hugging Face Spaces reads this file and automatically installs these dependencies.
+Required for the web interface and structure of the app
+streamlit
+
+Required for interacting with the Google Gemini API
+google-genai
+
+If you were using environment files locally (dotenv), you might include it,
+but since Hugging Face handles secrets via environment variables, it's not strictly
+necessary for the final deployment:
+python-dotenv

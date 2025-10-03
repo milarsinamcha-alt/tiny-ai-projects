@@ -1,0 +1,9 @@
+# Virtual environment folder (large, unnecessary on GitHub)
+venv/
+
+# Secret API Key file (CRITICAL: Do not upload your key!)
+.env
+
+# Python compilation artifacts
+__pycache__/
+*.pyc
